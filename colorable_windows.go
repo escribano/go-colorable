@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/mattn/go-isatty"
+	"github.com/escribano/go-isatty"
 )
 
 const (
